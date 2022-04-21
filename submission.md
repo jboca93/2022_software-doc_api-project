@@ -1,32 +1,48 @@
 # GetMyWeather API
 
-## Table of Contents
+## Contents
 
-```
-code block sample
-```
+- [GetMyWeather API and the getWeather Method](#intro)
+- [Get Started](#get-started)
+  - [Register for an API Key](#key)
+  - [Initialize getWeather](#initialize)
+- [Call getWeather API](#call)
+- [Understand Your API Return Package](#return)
+- [Error Conditions](#errors)
+- [Sample getWeather API Call](#sample)
 
-### Sample Table
-Header | Header
---------|------
-Content | Content
-Content | Content
+<a id="intro"/>
 
-Sample paragraph, lorem ipsum bob ross is the bob boss.
+## GetMyWeather API and the getWeather Method
 
-- unordered list
-- ya
-- ya
-- ya
+<a id="get-started"/>
 
-1. ordered
-2. ya
-3. ya
-4. ya
+## Get Started
 
-*emphasis*
+<a id="key"/>
 
-**strong**
+### Register for an API Key
+
+<a id="initialize"/>
+
+### Initialize getWeather
+
+<a id="call"/>
+
+## Call getWeather API
+
+<a id="return"/>
+
+## Understand Your API Return Package
+
+<a id="errors"/>
+
+## Error Conditions
+
+<a id="sample"/>
+
+## Sample getWeather API Call
+
 
 
 
