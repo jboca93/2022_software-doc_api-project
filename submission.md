@@ -24,8 +24,9 @@ Sample paragraph, lorem ipsum bob ross is the bob boss.
 3. ya
 4. ya
 
-*strong*
-**emphasis**
+*emphasis*
+
+**strong**
 
 
 
