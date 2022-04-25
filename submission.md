@@ -83,7 +83,7 @@ If you haven't already, embed the [call code](#call-code) into your web applicat
 Parameter | Necessity | Description
 -----|---------|------
 **Location** | *required* | Indicate location using *latitude/longitude* in ISO 6709 format.
-**Specificity** | *optional* | Define the area of the forecast as a circle around the *Location.* Indicate specificity as a *radius* in meters. Range: 10-10,000 meters..
+**Specificity** | *optional* | Define the area of the forecast as a circle around the *Location.* Indicate specificity as a *radius* in meters. Range: 10-10,000 meters. (add note here about what happens if you don't enter a specificity value - what's getWeather's default?)
 **Time** | *required* | Indicate time in hours from the current date and time (decimals will be accepted). For example, if a user submitted a forecast request at 1 p.m. today for the weather tomorrow at 3 p.m., the time would be 26 hours.
 **Key** | *required* | Review [Register for an API Key](#key) to get your unique key.
 
