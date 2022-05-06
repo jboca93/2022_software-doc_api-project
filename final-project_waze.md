@@ -246,21 +246,60 @@ Adjust the Waze app to meet your needs. Set your preferred language, customize a
 
 ### Navigation settings
 
+Customize the Waze App to support your needs. Waze allows you to adjust language, distance units, map display, voice and sound, driving preferences and more.
+
+1. Select **My Waze**
+2. Select the **Gear Icon** to access the Settings Menu
+
 <a id="audio-player"/>
 
 ### Connect an audio player
+
+Connect the Waze app to your favorite audio player to access music as you navigate. Waze will display audio information and controls from the map so that you don't have to switch between multiple apps as you travel.
+
+1. Select **My Waze**
+2. Select the **Gear Icon** to access the Settings Menu
+3. Select **Audio Player**
+4. Toggle on **Show on the Map**
+5. (Optional) Toggle on **Show next song**
+6. Install one of the available audio apps
 
 <a id="experiences"/>
 
 ### Waze experiences
 
+Create a unique drive with one of Waze's themed exerpeinces. Waze releases new experiences periodically, which allow you to customize your mood, car and voice directions.
+
+Experience | Description
+------|-------
+**Moods** | How you appear to other Wazers on the map.
+**Car** | How your car icon appears to you.
+**Voice directions** | Hear fun, turn-by-turn directions while driving.
+
+Waze recently released *Drive with the 80s, or 70s. Or 90s!* to help you create custom, retro driving experiences.
+
 <a id="invisible"/>
 
 ### Go invisible
 
+If you prefer to hide your account from other Wazers, go invisible.
+
+1. Select **My Waze.**
+2. Select your name to access your account.
+3. Toggle on **Go invisible.**
+
 <a id="sleep"/>
 
 ### Sleep mode
+
+If you want to take a break from Waze and ensure that the app is not using battery or cellular data, activate sleep mode.
+
+1. Select **My Waze.**
+2. Select the **Power Icon.**
+
+To deactivate sleep mode, select **Wake up.**
+
+While in sleep mode, you cannot navigate to a destination.
 
 <a id="carpool-with-waze"/>
 
