@@ -8,7 +8,7 @@ Welcome to Waze Support. Explore one of the help categories below or use the int
 - [Carpool with Waze](#carpool-with-waze)
 - [Learn more](#learn-more)
 
-*This document is based on the Waze mobile UI as of May 2022.
+**This document is based on the Waze mobile UI as of May 2022.*
 
 <!--- "interactive TOC in upper left-hand corner" available in GitHub version of this document only -- if you use doc in other platforms, revise this line and expand the <ul> TOC above to include all topics --->
 
@@ -57,7 +57,7 @@ Once you create an account, you can save popular destinations like home, work an
 1. Open the Waze app to your mobile device
 2. Select **Get started**
 3. Review the *Waze End User License Agreement* and select **Accept**
-4. If you have logged in
+4. By default, Waze displays the most recently used account. Select **Continue as...** to use that account or select **Use a different account.**
 
 <a id="navigate-using-waze"/>
 
