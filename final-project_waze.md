@@ -1,6 +1,6 @@
 # Waze Support
 
-Welcome to Waze Support. Explore one of the help categories below or use the interactive table of contents* in the upper left-hand corner of the page to find a specific topic.
+Welcome to Waze Support. Explore one of the help categories below or use the interactive table of contents in the upper left-hand corner of the page to find a specific topic.
 
 - [Get started](#get-started)
 - [Navigate using Waze](#navigate-using-waze)
@@ -8,7 +8,9 @@ Welcome to Waze Support. Explore one of the help categories below or use the int
 - [Carpool with Waze](#carpool-with-waze)
 - [Learn more](#learn-more)
 
-**GitHub .md version of this document version only*
+*This document is based on the Waze mobile UI as of May 2022.
+
+<!--- "interactive TOC in upper left-hand corner" available in GitHub version of this document only -- if you use doc in other platforms, revise this line and expand the <ul> TOC above to include all topics --->
 
 <a id="get-started"/>
 
@@ -18,24 +20,44 @@ Before you begin your trip, learn how Waze is different from other navigation ap
 
 - [Why Waze?](#why)
 - [Your Waze account](#your-account)
-- [Create an account](#create-account)
+- [Create a new account](#create-account)
 - [Log in to an existing account](#log-in)
 
 <a id="why"/>
 
 ### Why Waze?
 
+Waze is a community-driven navigation app. Drivers and riders from around the world work together every day to update the map based on traffic patterns, construction, accidents and more.
+
+With Waze, you can guarantee that you will arrive at your destination in the quickest and most efficient way possible.
+
 <a id="your-account"/>
 
 ### Your Waze account
 
+Once you create an account, you can save popular destinations like home, work and favorite stores. You can also track your impact on the Waze community by earning badges and accumulating points.
+
 <a id="create-account"/>
 
-### Create an account
+### Create a new account
+
+1. Open the Waze app to your mobile device
+2. Select **Get started**
+3. Review the *Waze End User License Agreement* and select **Accept**
+4. Create your account
+  - If this is your first time logging in to the Waze app, select **Create an account**
+  - If you have logged in to the Waze app on your device before using a different account, select **Use a different account.** By default, Waze will suggest your most recently used account as well.
+
+<!--- In the above, I've tried to nest two bullets under step #4 -- during revisions, determine a new way to make this clearer (e.g. 4.1, 4.2 or something); Is there a way to do nested ordered lists in .md? --->
 
 <a id="log-in"/>
 
 ### Log in to an existing account
+
+1. Open the Waze app to your mobile device
+2. Select **Get started**
+3. Review the *Waze End User License Agreement* and select **Accept**
+4. If you have logged in
 
 <a id="navigate-using-waze"/>
 
@@ -122,9 +144,11 @@ Adjust the Waze app to meet your needs. Set your preferred language, customize a
 
 ### Waze experiences
 
-<a id="invisibile"/>
+<a id="invisible"/>
 
 ### Go invisible
+
+<a id="sleep"/>
 
 ### Sleep mode
 
