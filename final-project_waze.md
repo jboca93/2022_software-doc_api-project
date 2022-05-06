@@ -41,6 +41,8 @@ Once you create an account, you can save popular destinations like home, work an
 
 ### Create a new account
 
+If you haven't used Waze before, create a new account to start keeping track of your favorite destinations and earning Waze points.
+
 1. Open the Waze app to your mobile device
 2. Select **Get started**
 3. Review the *Waze End User License Agreement* and select **Accept**
@@ -53,6 +55,8 @@ Once you create an account, you can save popular destinations like home, work an
 <a id="log-in"/>
 
 ### Log in to an existing account
+
+If you're returning to Waze after time away or from a new device, don't forget about your old account!
 
 1. Open the Waze app to your mobile device
 2. Select **Get started**
@@ -80,41 +84,132 @@ Use Waze to help you get where you're going in the quickest and most efficient w
 
 ### Get directions to a specific location
 
+#### Get directions to a new location
+
+Know where you need to go? Enter a specific address or location to recieve directions.
+
+1. In the **Where to?** dialogue box, enter an address or location name. You may also use Google Assistant to voice dictate the address or name.
+2. As you enter the address or name, Waze displays relevant options. Select the option you prefer.
+3. (Optional) Depending on the location, you may customize your exact destination by asking Waze to direct you to the nearest parking lot.
+4. Select **Go** if you'd like to begin your trip now. If you intend to begin your trip later, select **Go Later.**
+
+#### Get directions to a location you visited recently
+
+Waze remembers recent trips so that you don't have to enter the address or location name again.
+
+1. Select the **Where to?** dialogue box.
+2. Below the dialogue box, scroll through your list of recent destinations.
+3. Select a destination.
+4. Select **Go** if you'd like to begin your trip now. If you intend to begin your trip later, select **Go Later.**
+
+Travel there often? Learn how to [save the destination](#save-destinations) to your account so that you can access it it quickly later. 
+
 <a id="find-businesses"/>
 
-### Find gas stations, restaurants and other businesses
+### Find gas stations, restaurants and other common destinations
+
+If you're looking for gas, a place to eat or any other type of common destination, Waze can help!
+
+- [Search by keyword](#keyword)
+- [Search by category](#category)
+
+<a id="keyword"/>
+
+#### Search for a destination by keyword
+
+1. In the **Where to?** dialogue box, enter a word or description. For example, if you are searching for a gas station, enter "Gas."
+2. Select **Search** to display a list of relevant destinations near you.
+3. Select a destination.
+4. Select **Go** if you'd like to begin your trip now. If you intend to begin your trip later, select **Go Later.**
+
+<a id="category"/>
+
+#### Search for a destination by category
+
+Quickly search for parking, gas stations, pharmacies, grocery stores and more.
+
+1. Select the **Where to?** dialogue box.
+2. Below the dialogue box, select a category icon. If you don't see what you want, select **...** to open the icon menu.
+3. Select an icon to display destinations near you.
+4. Select a destination.
+4. Select **Go** if you'd like to begin your trip now. If you intend to begin your trip later, select **Go Later.**
 
 <a id="add-stops"/>
 
 ### Add stops to your route
 
+If you're already traveling to a destination but want to stop for gas, a snack or any other reason, add a stop to your trip.
+
+1. While navigating to a destination, select the arrival time.
+2. Swipe down until you see **Add a stop.**
+3. Select a category icon. If you don't see what you want, select the magnifying glass to search for a destination.
+4. Select a destination.
+5. Select **Go.**
+
 <a id="alternative-routes"/>
 
 ### Explore alternative routes
+
+Maybe you don't like driving through cities. Select an alternative route to help you get where you need to go quickly, efficiently and stress free.
+
+1. While navigating to a destination, select the arrival time.
+2. Select **Routes.**
+3. Select an alternative route. 
+
+For each alternative route, Waze displays a summary of the route, the total distance, travel time and any events along the way, such as heavy traffic, accidents or construction.
 
 <a id="overview-of-route"/>
 
 ### See an overview of your route
 
+See a complete view of your trip.
+
+1. While navigating to a destination, select the arrival time.
+2. Select **Overview.**
+
 <a id="stop-navigating"/>
 
 ### Stop navigating
+
+Change of plans? You can cancel your trip at any time.
+
+1. While navigating to a destination, select the arrival time.
+2. Select **Stop.**
 
 <a id="save-destinations"/>
 
 ### Save destinations
 
+If you travel somewhere often, save the destination so that you can access it quickly later.
+
+1. Select the **Where to?** dialogue box.
+2. Select **Saved places.**
+3. Select **Add a place.**
+4. Enter an address, location name or keyword. If you've traveled there recently, you may also select from your list of recent destinations.
+5. Select a destination.
+6. Give it a name.
+7. Select **Done.*
+
 <a id="share-route"/>
 
 ### Share your route
+
+Share your route with your travel companions to ensure everyone arrives quickly and efficiently.
+
+1. While navigating to a destination, select the arrival time.
+2. Select **Share Drive.**
+3. Share your drive to one of your Waze contacts in the app, via text message and more.
 
 <a id="plan"/>
 
 ### Plan a drive
 
-#### Plan a new drive
+If you know you need to travel somewhere soon, Waze can tell you the best time to leave to avoid heavy traffic.
 
-#### Connect your calendar or Facebook account
+1. Select **My Waze.**
+2. Select **Plan a drive.**
+3. (Optional) Connect your calendar or Facebook account to get notifications when it's time to leave for upcoming events.
+4. Enter
 
 <a id="update"/>
 
