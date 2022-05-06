@@ -315,25 +315,73 @@ Tired of overpriced ride-share apps? Use Waze carpool as a driver or rider to sh
 
 ### The Waze Carpool App
 
+If you expect to carpool frequently, download the [Waze Carpool app](https://www.waze.com/carpool-app). You can log in using your Waze account.
+
+Drivers can access carpool features from the Waze app, but riders must use the Waze Carpool app.
+
+<!--- verify the above before putting this in a portfolio --->
+
 <a id="drive"/>
 
 ### Drive Wazers
 
+Do you travel to the same place frequently and have an extra seat? Are you going on a trip soon and want to split gas money? Help a fellow Wazer by offering a ride!
+
+<a id="create-driver-account"/>
+
 #### Create a driver account
+
+Create a driver account to schedule upcoming drives, connect payment information and more.
+
+1. From the Waze app, select **Carpool.**
+2. Select **I drive.**
+3. Select **OK** to join the carpool community. By selecting OK, you aggree to the terms of service and privacy policy.
+<!--- in final version, link to terms of service and privacy policy --->
+4. Enter your name and profile photo.
+5. Add and verify your phone number.
+6. Create a carpool route.
+
+Once you've created an account and carpool route, you can then [schedule upcoming drives](#schedule-drives).
+
+<a id="schedule-drives"/>
 
 #### Schedule upcoming drives
 
+Schedule upcoming drives so that fellow carpoolers can request rides.
+
+Before you schedule upcoming drives, you must first [create a driver account](#create-driver-account). 
+
+1. From the Waze app, select **Carpool.**
+2. Choose a day and select the **plus icon** to schedule a drive.
+
 #### Driver settings
+
+As a carpool driver, you can adjust ride request notifications, payment information, available seats and more.
+
+1. From the Waze app, select **Carpool.**
+2. Select the **Gear Icon** to access the Settings menu.
 
 <a id="ride"/>
 
 ### Ride with Wazers 
 
+If you don't have a car, Waze Carpool can help! Wazers around the world have signed up to carpool as drivers.
+
 #### Find a ride
 
-#### Schedule a ride
+1. Open the Waze Carpool app.
+2. Select the day on which you need a ride.
+3. Select the **plus sign.**
+4. Select **I want to ride.**
+
+Waze Carpool will search for drivers offering rides on that day. If no drivers have signed up to carpool, you can ask Waze to continue to search for drivers and notify you when they find one.
 
 #### Rider settings 
+
+As a carpool rider, you can adjust ride offer notifications, payment information and more.
+
+1. From the Waze app, select **Carpool.**
+2. Select the **Gear Icon** to access the Settings menu.
 
 <a id="learn-more"/>
 
