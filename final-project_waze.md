@@ -1,12 +1,14 @@
 # Waze Support
 
-Welcome to Waze Support. Explore one of the help categories below or use the interactive table of contents in the upper left-hand corner of the page (*GitHub .md of this document version only*) to find a specific topic.
+Welcome to Waze Support. Explore one of the help categories below or use the interactive table of contents* in the upper left-hand corner of the page to find a specific topic.
 
 - [Get started](#get-started)
 - [Navigate using Waze](#navigate-using-waze)
 - [Customize Waze](#customize)
 - [Carpool with Waze](#carpool-with-waze)
 - [Learn more](#learn-more)
+
+**GitHub .md version of this document version only*
 
 <a id="get-started"/>
 
