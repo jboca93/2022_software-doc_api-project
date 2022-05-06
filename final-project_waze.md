@@ -188,7 +188,7 @@ If you travel somewhere often, save the destination so that you can access it qu
 4. Enter an address, location name or keyword. If you've traveled there recently, you may also select from your list of recent destinations.
 5. Select a destination.
 6. Give it a name.
-7. Select **Done.*
+7. Select **Done.**
 
 <a id="share-route"/>
 
@@ -209,11 +209,26 @@ If you know you need to travel somewhere soon, Waze can tell you the best time t
 1. Select **My Waze.**
 2. Select **Plan a drive.**
 3. (Optional) Connect your calendar or Facebook account to get notifications when it's time to leave for upcoming events.
-4. Enter
+4. Enter an address, location name or keyword. If you've traveled there recently, you may also select from your list of recent destinations.
+5. Select a destination.
+6. Adjust the departure location and day, if necessary.
+7. Scroll to adjust the departure time. The traffic-pattern visualizer on the right-hand side of the screen shows times with high traffic.
+8. Select **Save.**
+9. (Optional) Allow Waze to always access your location to help remind you to leave on time, update you about traffice and more.
 
 <a id="update"/>
 
 ### Update the map
+
+Contribute to the Waze Community by updating the map as you travel. Alert fellow Wazers about traffic, construction, police, roadside hazards and more.
+
+1. While navigating to a destination, select **Update the map.** 
+<!--- in future iterations of this document, add an image of the "Update the map" icon --->
+2. Select an update category.
+3. Provide information about the update. For example, is the traffic mdoerate, heavy or standstill?
+4. Select **Send.**
+
+When you submit an update, Waze drops an alert on the map for fellow Wazers to see.
 
 <a id="customize"/>
 
