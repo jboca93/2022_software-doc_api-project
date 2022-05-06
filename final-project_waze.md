@@ -70,7 +70,7 @@ If you're returning to Waze after time away or from a new device, don't forget a
 Use Waze to help you get where you're going in the quickest and most efficient way possible.
 
 - [Get directions to a specific location](#get-directions)
-- [Find gas stations, restaurants and other businesses](#find-businesses)
+- [Find gas stations, restaurants and other common destinations](#find-businesses)
 - [Add stops to your route](#add-stops)
 - [Explore alternative routes](#alternative-routes)
 - [See an overview of your route](#overview-of-route)
